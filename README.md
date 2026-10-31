@@ -15,3 +15,4 @@ The pipeline bridges numerical relativity approximations with modern AI architec
 
 ## Results
 The ResNet successfully converges using Mean Squared Error (MSE) loss, demonstrating the ability to see through severe detector noise and predict the accurate physical chirp mass of the binary system. This bypasses the traditional, computationally expensive Markov Chain Monte Carlo (MCMC) parameter estimation methods.
+![results](gw_results.png)
